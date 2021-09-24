@@ -1,0 +1,2 @@
+numpy
+sport-activities-features
