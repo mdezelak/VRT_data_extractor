@@ -1,0 +1,2 @@
+numpy==1.21.0
+sport_activities_features==0.2.5
